@@ -8,7 +8,7 @@ Seja bem-vindo(a) a organização Venturyc, um grande passo para você potencial
 <img src="https://github.com/Venturyc/.github/blob/main/assets/banners/Features.png?raw=true">
 
 - Pagamentos seguros.
-- Engregas automatizadas.
+- Entregas automatizadas.
 - Lojas integradas.
 - Site personalizável.
 - Suporte capacitado.
